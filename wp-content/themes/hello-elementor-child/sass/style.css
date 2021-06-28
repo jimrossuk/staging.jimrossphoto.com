@@ -1,0 +1,40 @@
+.site-branding {
+  max-width: -webkit-min-content !important;
+  max-width: -moz-min-content !important;
+  max-width: min-content !important;
+  padding-left: 30px;
+}
+
+.site-title {
+  max-width: -webkit-fit-content;
+  max-width: -moz-fit-content;
+  max-width: -webkit-min-content !important;
+  max-width: -moz-min-content !important;
+  max-width: min-content !important;
+}
+
+@media screen and (max-width: 600px) {
+  .site-title {
+    max-width: -webkit-fit-content;
+    max-width: -moz-fit-content;
+    max-width: -webkit-min-content;
+    max-width: -moz-min-content;
+    max-width: min-content;
+  }
+  h1.site-title {
+    font-size: 1.6rem;
+  }
+}
+
+#wpcf7-f660-p661-o1 {
+  color: white;
+}
+
+#wpcf7-f660-p661-o1 {
+  color: white;
+}
+
+div.wpcf7 {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */
